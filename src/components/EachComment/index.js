@@ -1,7 +1,7 @@
 import "./index.css"
 const EachComment=(props)=>{
     const {eachDetails}=props
-    const {postId, id, name, email, body}=eachDetails
+    const {id, name, email, body}=eachDetails
     return(
         <tr className="each-table-style">
             <td className="each-table-style">{id}</td>
