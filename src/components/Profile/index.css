@@ -1,0 +1,18 @@
+.profile-container {
+    padding-top: 100px;
+}
+.profile-heading {
+    color: white;
+    font-size: 40px;
+}
+.profile-para {
+    color: white;
+}
+.profile-card {
+    background-color: rgba(255, 255, 255, 0.1);  
+    backdrop-filter: blur(4px);                   
+    border: 1px solid rgba(255, 255, 255, 0.2);  
+    border-radius: 5px;
+    padding-left: 20px;
+    color: white;
+}
